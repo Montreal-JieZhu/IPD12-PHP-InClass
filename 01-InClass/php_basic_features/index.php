@@ -29,7 +29,7 @@ and open the template in the editor.
         ?>
         <?php
         /**
-         * API documentation has twoo standards, this is not a php
+         * API documentation has two standards, this is not a php
          * sysntax distinction, but it is a convention
          */
         ?>
