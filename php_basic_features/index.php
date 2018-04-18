@@ -33,6 +33,7 @@ and open the template in the editor.
          * sysntax distinction, but it is a convention
          */
         ?>
+        <a href="<?php phpinfo();?>">PHPINFO</a>
         <?php
         echo "hello world from PHP";
         print '</br>';
@@ -81,5 +82,6 @@ and open the template in the editor.
         <?php 
         include 'Lab_03_01.php';
         ?>
+        
     </body>
 </html>
